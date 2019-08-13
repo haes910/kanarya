@@ -1,0 +1,15 @@
+.hide{
+	display: none;
+}
+
+.pasif{
+	pointer-events: none;
+	cursor: default;
+}
+
+.dbtn{
+	width: 150px;
+	margin-top: 3px;
+}
+
+
